@@ -456,7 +456,6 @@ PRODUCT_COPY_FILES += \
 
 PRODUCT_PACKAGES += \
     QtiTelephonyService \
-    datastatusnotification \
     com.qualcomm.location \
     qcrilmsgtunnel \
     TimeService \
